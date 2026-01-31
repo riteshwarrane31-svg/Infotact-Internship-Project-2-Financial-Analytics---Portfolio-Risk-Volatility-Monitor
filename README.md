@@ -1,0 +1,2 @@
+# Infotact-Internship-Project-2-Financial-Analytics---Portfolio-Risk-Volatility-Monitor
+This project demonstrates an end-to-end financial risk analysis workflow using Python, CSV data, Tableau, and basic quantitative finance concepts. The goal is to simulate how a data analyst or junior risk analyst would analyze asset price behavior, returns, volatility, and risk — and present insights through an interactive dashboard.
